@@ -1,0 +1,7 @@
+in 2026, we have some compagny like SensGlove or Laval Virtual who can sell new brand haptic glove. this glove are use for virtual reality. With them we can have the sense of touch in our hand. this can be use with a haptic t-shirt for a more complete experience. The Meta Haptic Studio was updated in 2025 for compabilitie with the glove and other piece of équipements, this application is use for link a interation in vr to a vibration in the haptic equipements.
+all this accessories are use for make virtual experiences more realistic.
+
+
+
+if Haptic gloves could simulate touching objects, it's because it work with electrod (verifier le mot) and microrotor
+(same)
